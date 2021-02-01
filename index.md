@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/adashipin/html2121/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
 /2Vl6sp1f7Z2j5equtArvugO2mXjXUlnjKHLa3Gru4k=
+
 
 ```markdown
 Syntax highlighted code block
